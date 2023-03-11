@@ -10,7 +10,7 @@
 Hey there 👋
 
 I’m Dmitry, Freelance Full-Stack Developer with 3+ years experience,
-that keep customers coming back for about services makes best effort.<br>
+that keep customers coming back for about services makes best effort.<br><br>
 📣 What about your favorite quote?
 
 > We'll always have Paris
