@@ -9,8 +9,8 @@
 
 Hey there 👋
 
-I’m Dmitry, software engineer,  who specializes in back-end development in writing Python application programs.
-
+I’m Dmitry, Freelance Full-Stack Developer with 3+ years experience,
+that keep customers coming back for about services makes best effort.
 📣 What about your favorite quote?
 
 > We'll always have Paris
